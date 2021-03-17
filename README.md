@@ -7,8 +7,8 @@ The main technologies are react.js, redux, thunk.
 
 1. Install node_modules
 
-### `npm install`
+    ##### `npm install`
 
 2. Start the project
 
-### `npm start`
+    ##### `npm start`
