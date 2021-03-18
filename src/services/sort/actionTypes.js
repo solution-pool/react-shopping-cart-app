@@ -1,1 +1,1 @@
-export const UPDATE_SORT = 'UPDATE_SORT';
+export const UPDATE_SORT = '@SC/UPDATE_SORT';
