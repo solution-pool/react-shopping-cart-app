@@ -1,14 +1,14 @@
 # react-shopping-cart-app
 
 This is a basic react shopping cart app.
-The technologies are react.js, redux, thunk.
+The main technologies are react.js, redux, thunk.
 
 ## How to run
 
 1. Install node_modules
 
-npm install
+### `npm install`
 
 2. Start the project
 
-npm start
+### `npm start`
